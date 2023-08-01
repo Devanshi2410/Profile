@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 
 body {
   display: flex;
@@ -158,7 +158,7 @@ cite{
   display: flex;
   margin: 1em;
   padding: 3em;
-  background-color:  rgba(239, 91, 91, 1);
+  background-color: rgb(4, 1, 250);
   width: 800px;
   border-radius: 8px;
   align-self: center;
@@ -182,3 +182,4 @@ cite{
   place-content:  center;
   background-color: rgba(228, 223, 218, 1);
 }
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
