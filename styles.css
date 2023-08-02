@@ -64,6 +64,7 @@ button {
 }
 .rightb1{
   width: 50px;
+  height: 100px;
 }
 .b2header{
   display: flex;
