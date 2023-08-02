@@ -33,7 +33,7 @@ button {
 
 
 .header, .footer{
-  background-color: rgba(36, 132, 111, 1);
+  background-color: rgb(2, 2, 1);
 
 
   display: flex;
@@ -47,7 +47,7 @@ button {
 }
 
 .b1content{
-  background-color:rgb(174, 0, 135);
+  background-color:rgb(81, 43, 139);
   display: flex;
   flex: 1;
   padding: 16px;
@@ -73,7 +73,7 @@ button {
   align-items: center;
   justify-content: center;
   place-content:  center;
-  background-color: rgb(174, 0, 70);
+  background-color: rgb(255, 139, 177);
 }
 .b2content{
   display: flex;
@@ -83,7 +83,7 @@ button {
   gap: 32px;
   align-items: flex-start;
   place-content:  center;
-  background-color: rgb(66, 121, 250);
+  background-color: rgb(196, 78, 176);
 }
 .iconcontent{
   display: flex;
@@ -104,6 +104,10 @@ button {
 .footer{
   align-content: flex-end;
   justify-content: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
  
 }
 
@@ -116,7 +120,7 @@ ul{
   
 }
 #linky{
-  color: rgba(72, 77, 109, 1) ;
+  color:rgb(255, 139, 177);
   font-weight: bold;
 }
 
@@ -138,7 +142,7 @@ cite{
 }
 
 .quotecontent {
-  background-color: rgba(72, 77, 109, 1);
+  background-color:rgb(242, 94, 184);
   display: flex;
   justify-content: center; 
   
@@ -161,7 +165,7 @@ cite{
   display: flex;
   margin: 1em;
   padding: 3em;
-  background-color: rgb(4, 1, 250);
+  background-color: rgb(142, 110, 237);
   width: 800px;
   border-radius: 8px;
   align-self: center;
@@ -180,7 +184,6 @@ cite{
 .b4content{
   display: flex;
   align-items: flex-start;
-  
   justify-content: center;
   place-content:  center;
   background-color: rgba(228, 223, 218, 1);
